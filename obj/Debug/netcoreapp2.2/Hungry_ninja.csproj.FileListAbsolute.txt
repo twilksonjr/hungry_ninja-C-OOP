@@ -1,0 +1,11 @@
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.deps.json
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.runtimeconfig.json
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.runtimeconfig.dev.json
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.dll
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/bin/Debug/netcoreapp2.2/Hungry_ninja.pdb
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.csprojAssemblyReference.cache
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.AssemblyInfo.cs
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.dll
+/Users/macbook/Desktop/CSharp_stack/Hungry_ninja/obj/Debug/netcoreapp2.2/Hungry_ninja.pdb
